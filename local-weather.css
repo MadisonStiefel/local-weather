@@ -1,0 +1,63 @@
+body {
+  background-color: #80aaff;
+  color: white;
+}
+
+#date {
+  float: right;
+  margin-right: 20px;
+  margin-top: 20px;
+  font-size: 18px;
+}
+
+#location {
+  font-size: 36px;
+}
+
+.currentTemperature {
+  font-size: 36px;
+}
+
+.currentWeatherSummary {
+  font-size: 20px;
+}
+
+.weekDay {
+  font-size: 16px;
+}
+
+.temperature {
+  font-size: 16px;
+}
+
+ul li {
+  list-style-type: none;
+  display: inline-block;
+  padding-right: 30px;
+}
+
+.btn-group {
+  float: left;
+  margin-left: 20px;
+  margin-top: 20px;
+}
+
+.btn {
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+  background-color: #EEEEEE;
+  color: #616161;
+  border-color: #E0E0E0;
+  border-width: 0.2rem;
+}
+
+.btn:hover {
+  background-color: #cccccc;
+  color: #616161;
+}
+
+.active {
+  background-color: #cccccc;
+  color: #616161;
+}
+
